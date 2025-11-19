@@ -13,24 +13,6 @@
 Me chamo Ray Gonçalves, tenho 17 anos e sou natural de Belo Horizonte – MG. <br> Atualmente estou cursando o Ensino Médio e, paralelamente, estou estudando HTML, CSS e JavaScript por conta própria.
 Sou apaixonado por tecnologia e desenvolvimento web, e estou construindo meus primeiros projetos para evoluir minhas habilidades e compartilhar meu aprendizado.
 
-<p>
-
-<a href="https://github.com/raaycunha?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/raaycunha?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias

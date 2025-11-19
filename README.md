@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Front-End`**
 
-Me chamo Ray Gonçalves, tenho 17 anos e sou natural de Belo Horizonte – MG. Atualmente estou cursando o Ensino Médio e estou estudando HTML, CSS e JavaScript por conta própria.
+Me chamo Ray Gonçalves, tenho 17 anos e sou natural de Belo Horizonte – MG. <br> Atualmente estou cursando o Ensino Médio e estou estudando HTML, CSS e JavaScript por conta própria.
 Sou apaixonado por tecnologia e desenvolvimento web, e estou construindo meus primeiros projetos para evoluir minhas habilidades e compartilhar meu aprendizado.
 
 ---

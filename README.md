@@ -1,6 +1,6 @@
 # 👨‍💻 Ray Gonçalves
 
-**`Software Developer | Front-End`**
+**`Student in Front-end Development`**
 
 Me chamo Ray Gonçalves, tenho 17 anos e sou natural de Belo Horizonte – MG. <br> Atualmente estou cursando o Ensino Médio, assim que formar irei cursar Análise e Desenvolvimento de Sistemas. <br> No momento estou estudando HTML, CSS e JavaScript por conta própria.
 Acabei me apaixonando por tecnologia e desenvolvimento web, e estou desenvolvendo meus primeiros projetos para evoluir minhas habilidades e compartilhar meu aprendizado.

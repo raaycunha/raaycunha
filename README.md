@@ -1,4 +1,4 @@
-# Eaii, beleza? me chamo Ray Gonçalves! 
+## Prazer, me chamo Ray Gonçalves!
 
 ## 🎓 Estudante em **Desenvolvimento Full Stack**, atualmente estudando TypeScript & React.
 
@@ -21,7 +21,6 @@
 ## 📚 Cursos realizados
 
 - JavaScript + POO (Hora de Codar)
-- JavaScript (Hora de Codar)
 - HTML5 + CSS3 (Hora de Codar)
 - Git e GitHub (Hora de Codar)
 

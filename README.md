@@ -1,47 +1,40 @@
-# 👨‍💻 Ray Gonçalves
+# Eaii, beleza? me chamo Ray Gonçalves! 
 
-**`Student in Front-end Development`**
+## 🎓 Estudante em **Desenvolvimento Full Stack**, atualmente estudando TypeScript & React.
 
-Me chamo Ray Gonçalves, tenho 17 anos e sou natural de Belo Horizonte – MG. <br> Atualmente estou cursando o Ensino Médio, assim que formar irei cursar Análise e Desenvolvimento de Sistemas. <br> No momento estou estudando HTML, CSS e JavaScript por conta própria.
-Acabei me apaixonando por tecnologia e desenvolvimento web, e estou desenvolvendo meus primeiros projetos para evoluir minhas habilidades e compartilhar meu aprendizado.
+🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos e divertidos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-</body>
-</html>
+## 📚 Cursos realizados
+
+- JavaScript + POO (Hora de Codar)
+- JavaScript (Hora de Codar)
+- HTML5 + CSS3 (Hora de Codar)
+- Git e GitHub (Hora de Codar)
+
+---
+
+## 🔗 Onde me encontrar
+
+<div>
+  <a href="https://www.linkedin.com/in/raaycunha.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+
+  <a href="mailto:raaycunha.dev@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+</div>

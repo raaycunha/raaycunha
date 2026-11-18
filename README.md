@@ -1,39 +1,56 @@
-## Prazer, me chamo Ray Gonçalves!
+# Prazer, eu sou o Ray Gonçalves!👋
 
-## 🎓 Estudante em **Desenvolvimento Full Stack**, atualmente estudando TypeScript & React.
+**Desenvolvedor Full Stack em formação** 🚀
 
-🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos e divertidos.
+Sou apaixonado por tecnologia e desenvolvimento web. Gosto de transformar ideias em projetos reais, explorando novas ferramentas e buscando criar interfaces modernas, funcionais e intuitivas.
 
----
+Atualmente, estou aprofundando meus conhecimentos em **TypeScript e React**, enquanto desenvolvo projetos práticos para evoluir minhas habilidades e construir meu caminho na área de desenvolvimento.
 
-## 🛠️ Tecnologias e Ferramentas
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</div>
+Acredito que a melhor forma de aprender é construindo, experimentando e melhorando a cada projeto.
 
 ---
 
-## 📚 Cursos realizados
+## 💻 Tecnologias & Ferramentas
 
-- JavaScript + POO (Hora de Codar)
-- HTML5 + CSS3 (Hora de Codar)
-- Git e GitHub (Hora de Codar)
+**Minha stack atual:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="Tecnologias e ferramentas" />
+</p>
+
+**Atualmente estudando:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react&theme=dark" alt="TypeScript e React" />
+</p>
 
 ---
 
-## 🔗 Onde me encontrar
+## 🚀 O que estou fazendo
 
-<div>
-  <a href="https://www.linkedin.com/in/raaycunha/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+- 💻 Desenvolvendo aplicações web e projetos para meu portfólio.
+- 📚 Explorando o ecossistema **React e TypeScript**.
+- 🎨 Aprimorando minhas habilidades em interfaces e experiência do usuário.
+- 🧠 Evoluindo minha lógica de programação e boas práticas de desenvolvimento.
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/raaycunha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:raaycunha.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+  <a href="https://github.com/raaycunha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Transformando aprendizado em código, um projeto de cada vez.”</i> ✨
+</p>
